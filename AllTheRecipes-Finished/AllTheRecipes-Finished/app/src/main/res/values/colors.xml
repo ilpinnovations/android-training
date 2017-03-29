@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#e74c3c</color>
+  <color name="colorPrimaryDark">#C0392B</color>
+  <color name="colorAccent">#34495E</color>
+  <color name="turquoise">#16A085</color>
+  <color name="peter_river">#3498db</color>
+  <color name="colorLowCarb">#663399</color>
+  <color name="colorBalanced">#4183D7</color>
+  <color name="colorMediumCarb">#D2527F</color>
+  <color name="colorLowSodium">#F4D03F</color>
+  <color name="colorLowFat">#F2784B</color>
+  <color name="colorVegetarian">#26A65B</color>
+</resources>
